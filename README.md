@@ -1,4 +1,4 @@
-#Spring Bank Account
+# Spring Bank Account
 
 ### Build tool
 Intellij (Ultimate)
