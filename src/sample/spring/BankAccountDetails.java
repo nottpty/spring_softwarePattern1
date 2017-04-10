@@ -2,7 +2,7 @@ package sample.spring;
 
 import java.util.Date;
 /**
- * Created by sas-maxnot19 on 4/10/2017 AD.
+ * Created by Patinya Yongyai on 4/10/2017 AD.
  */
 public class BankAccountDetails {
     private int accountId;

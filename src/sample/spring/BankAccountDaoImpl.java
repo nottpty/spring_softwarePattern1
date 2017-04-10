@@ -3,7 +3,7 @@ package sample.spring;
 import org.apache.log4j.Logger;
 import org.springframework.stereotype.Repository;
 /**
- * Created by sas-maxnot19 on 4/10/2017 AD.
+ * Created by Patinya Yongyai on 4/10/2017 AD.
  */
 @Repository(value = "bankAccountDao")
 public class BankAccountDaoImpl implements BankAccountDao {
